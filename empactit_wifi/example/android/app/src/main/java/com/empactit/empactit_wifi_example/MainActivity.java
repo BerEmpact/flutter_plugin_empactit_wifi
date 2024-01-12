@@ -1,0 +1,6 @@
+package com.empactit.empactit_wifi_example;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
