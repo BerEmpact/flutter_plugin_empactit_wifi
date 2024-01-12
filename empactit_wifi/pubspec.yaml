@@ -1,10 +1,10 @@
 name: empactit_wifi
 description: Flutter plugin project for wifi utilities
-version: 1.0.0
+version: 1.0.1
 homepage:
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: '>=3.3.0'
 
 dependencies:
